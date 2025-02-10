@@ -1,9 +1,3 @@
-I’ll process the Jupyter Notebook file and generate a **README** based on its contents. Let me extract the key details first.
-
-Based on the extracted content, here’s a **README** for your project:
-
----
-
 # **Medical Insurance Premium Prediction**  
 
 ## **Project Overview**  
